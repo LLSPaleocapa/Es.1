@@ -1,2 +1,1 @@
-# Es.1
-Compito
+Compito per esercitarsi su git terminale power shell ecc.
